@@ -18,4 +18,6 @@
 - 프론트엔드-백엔드 통합 흐름 이해  
 
 ## 📸 화면 예시
-(스크린샷 추가)
+<img width="294" height="158" alt="image" src="https://github.com/user-attachments/assets/23c5bd3f-ef1c-49fd-a4b3-e02e711184e5" />
+
+<img width="235" height="181" alt="image" src="https://github.com/user-attachments/assets/41f39425-7b8d-4e75-affa-fa6c2b060c6e" />
